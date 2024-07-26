@@ -1,0 +1,48 @@
+table{
+            width: 80px;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th,td {
+            border: 2px solid purple;
+            padding: 20px;
+        }
+        h4{
+            color:blueviolet;
+        }
+        h1{
+            color:aquamarine;
+        }
+        p{
+            color:black;
+        }
+        body{
+            background-color: mediumslateblue;
+        }
+    
+        div{
+            width:200px;
+            border:20px solid black;
+            padding:20px;
+            margin:20px;
+            margin:auto;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 10px;
+            background-color:pink;
+            overflow: hidden;
+        }
+        nav ul li {
+            float:right;
+        }nav ul li a{
+            display: black;
+            color: white;
+            text-align: center;
+            padding: 24px 36px;
+            text-decoration:  none;
+        }
+
+
+
+
